@@ -6,5 +6,7 @@ public class HellController {
         public void idea(){}
         public void master(){}
 
+
+        public void tesing(){}
 		public void xiaowugui(){}
 }
